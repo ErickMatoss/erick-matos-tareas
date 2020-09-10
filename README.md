@@ -1,15 +1,15 @@
 # erick-matos-tareas
 
-#### Tarea 1 : Titulos de las lecciones vimtutor
+### Tarea 1 : Titulos de las lecciones vimtutor
 
-
+#### Leccion 1
 - Lesson 1.1: MOVING THE CURSOR
 - Lesson 1.2: EXITING VIM
 - Lesson 1.3: TEXT EDITING - DELETION
 - Lesson 1.4: TEXT EDITING - INSERTION
 - Lesson 1.5: TEXT EDITING - APPENDING
 - Lesson 1.5: EDITING A FILE
-
+#### Leccion 2
 - Lesson 2.1: DELETION COMMANDS
 - Lesson 2.2: MORE DELETION COMMANDS
 - Lesson 2.3: ON OPERATORS AND MOTIONS
@@ -17,28 +17,28 @@
 - Lesson 2.5: USING A COUNT TO DELETE MORE
 - Lesson 2.6: OPERATING ON LINES
 - Lesson 2.7: THE UNDO COMMAND
-
+#### Leccion 3
 - Lesson 3.1: THE PUT COMMAND
 - Lesson 3.2: THE REPLACE COMMAND
 - Lesson 3.3: THE CHANGE OPERATOR
 - Lesson 3.4: MORE CHANGES USING c
-
+#### Leccion 4
 - Lesson 4.1: CURSOR LOCATION AND FILE STATUS
 - Lesson 4.2: THE SEARCH COMMAND
 - Lesson 4.3: MATCHING PARENTHESES SEARCH
 - Lesson 4.4: THE SUBSTITUTE COMMAND
-
+#### Leccion 5
 - Lesson 5.1: HOT TO EXECUTE AN EXTERNAL COMMAND
 - Lesson 5.2: MORE ON WRITING FILES
 - Lesson 5.3: SELECTING TEXT TO WRITE
 - Lesson 5.4: RETRIEVING AND MERGING FILES
-
+#### Leccion 6
 - Lesson 6.1: THE OPEN COMMAND
 - Lesson 6.2: THE APPEND COMMAND
 - Lesson 6.3: ANOTHER WAY TO REPLACE
 - Lesson 6.4: COPY AND PASTE TEXT
 - Lesson 6.5: SET OPTION 
-
+#### Leccion 7
 - Lesson 7.1: GETTING HELP
 - Lesson 7.2: CREATE A STARTUP SCRIPT
 - Lesson 7.3: COMPLETION
