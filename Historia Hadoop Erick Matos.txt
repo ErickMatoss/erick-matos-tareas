@@ -1,0 +1,13 @@
+Es un entorno de trabajo para programar aplicaciones distribuidas que manejen grandes volúmenes de datos. Haddop oficialmente nacio en Enero del 2006. Es un ecosistema de código abierto que 
+cambió fundamentalmente la forma en que las empresas almacenan, procesan y analizan los datos.
+A diferencia del sistema tradicional, Hadoop permite que varios tipos de cargas de trabajo analíticas se ejecuten en los mismos datos y al mismo tiempo.
+Actualmente hay mas de 1.7 millones de lineas de codigo en el core de hadoop y mas 
+de 12000 commits desde el 2006.
+Doug Cutting ingresa a Yahoo! en Enero del 2006 y empezo a crear un nuevo subproyecto basandose en Nutch un crawler creado por el y Mike Cafarella en 2002, en el 2004 google publica el paper original de mape reduce. El nombre de Hadoop proviene de un elefante de juguete que pertenece al hijo pequeño de Cutting.
+Primera versión de Apache de Hadoop en el 2007.
+En el 2008 Hadoop se posiciono en el top de proyectos y Yahoo auncio el proyecto mas grande del mundo usando hadoop en el mismo año. Al igual que se implemento el primer framework de acceso SQL.
+Igual se funda la primera empresa en comercializar Hadoop por Cloudera.
+En 2009 se crea la primera gran guia de Hadoop de Tom White.
+En marzo 2012, HDFS HA, un importante paso adelante para la adopción empresarial, se fusiona con Hadoop Trunk. En octubre de 2012, Impala, la primera base de datos analítica MPP nativa para Hadoop, se une al ecosistema.
+En febrero de 2014 Apache Spark, el motor de ejecución predeterminado emergente para Hadoop, se convierte en un proyecto de Apache de nivel superior.
+En 2015 los proyectos llamados Impala y Kudu se convierten en incubadoras de Apache. 
